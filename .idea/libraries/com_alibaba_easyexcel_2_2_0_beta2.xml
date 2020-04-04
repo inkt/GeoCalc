@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="com.alibaba:easyexcel:2.2.0-beta2" type="repository">
+    <properties maven-id="com.alibaba:easyexcel:2.2.0-beta2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/easyexcel-2.2.0-beta2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curvesapi-1.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cglib-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ehcache-3.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
